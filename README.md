@@ -1,2 +1,2 @@
 # datascicourse
-curso ibm
+curso ibm / tools for data science
